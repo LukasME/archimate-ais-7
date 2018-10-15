@@ -1,7 +1,7 @@
 <archimate:SketchModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Introductory sketch of system (present)"
+    name="Introductory sketch of system &quot;AS IS&quot;"
     id="0e27e4db-c110-49be-9821-955a9506cfbd"
     background="0">
   <children
@@ -82,7 +82,7 @@
         target="975ae912-ee06-4cef-ad77-56a2cca5d3a8"/>
     <bounds
         x="480"
-        y="48"
+        y="61"
         width="73"
         height="64"/>
   </children>
