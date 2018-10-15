@@ -6,26 +6,6 @@
     background="0">
   <children
       xsi:type="archimate:SketchModelSticky"
-      id="838bb7d6-c743-4410-9387-56e80eecc1a4"
-      name="Sticky"
-      targetConnections="800da0ed-1d38-4e77-b29d-50e7c0b0d33a 4f5bb221-d48c-4588-b1e1-2339a254b9e5"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffb5"
-      content="Front office (Telefonické a emailové objednávky)">
-    <sourceConnections
-        id="8775ab3c-6262-4afa-a7c5-d55be18a02b1"
-        source="838bb7d6-c743-4410-9387-56e80eecc1a4"
-        target="975ae912-ee06-4cef-ad77-56a2cca5d3a8"
-        type="1"/>
-    <bounds
-        x="228"
-        y="156"
-        width="193"
-        height="133"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelSticky"
       id="b9075648-d01d-4089-9b8b-a1c1ab113fcb"
       name="Sticky"
       targetConnections="4eefa4de-2b90-46ab-a349-78171bd723fb"
@@ -75,11 +55,11 @@
   <children
       xsi:type="archimate:SketchModelActor"
       id="39ed8d6c-281e-4dea-b141-2ce6387c9823"
-      name="Personalista">
+      name="Zamestnanec">
     <sourceConnections
-        id="39003880-5c8b-4730-83af-9559590390f3"
+        id="62fffe99-430a-4631-99db-86808a149524"
         source="39ed8d6c-281e-4dea-b141-2ce6387c9823"
-        target="975ae912-ee06-4cef-ad77-56a2cca5d3a8"/>
+        target="7b92657c-df31-4f8f-a163-e699a6d0f7bc"/>
     <bounds
         x="480"
         y="61"
@@ -113,25 +93,6 @@
         height="61"/>
   </children>
   <children
-      xsi:type="archimate:SketchModelSticky"
-      id="999a7e05-0364-4fa7-a6f8-e5d5b6a96122"
-      name="Sticky"
-      targetConnections="237f1ff3-12b1-430c-92bb-0bbc391263ae"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#b5ffff"
-      content="Oddelenie prekladateľov a tlmočníkov&#xD;&#xA;">
-    <sourceConnections
-        id="343403b7-a138-41c4-a87d-7ab27cb004ee"
-        source="999a7e05-0364-4fa7-a6f8-e5d5b6a96122"
-        target="47f650b5-8e97-4b32-b466-f10ba538540d"/>
-    <bounds
-        x="648"
-        y="156"
-        width="193"
-        height="133"/>
-  </children>
-  <children
       xsi:type="archimate:SketchModelActor"
       id="47f650b5-8e97-4b32-b466-f10ba538540d"
       name="Prekladateľ/Tlmočník"
@@ -148,37 +109,98 @@
         height="61"/>
   </children>
   <children
-      xsi:type="archimate:SketchModelSticky"
-      id="975ae912-ee06-4cef-ad77-56a2cca5d3a8"
-      name="Sticky"
-      targetConnections="39003880-5c8b-4730-83af-9559590390f3 8775ab3c-6262-4afa-a7c5-d55be18a02b1"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffb5"
-      content="Personálne oddelenie (Telefonické a emailové objednávky)">
-    <sourceConnections
-        id="237f1ff3-12b1-430c-92bb-0bbc391263ae"
-        source="975ae912-ee06-4cef-ad77-56a2cca5d3a8"
-        target="999a7e05-0364-4fa7-a6f8-e5d5b6a96122"
-        type="1"/>
+      xsi:type="archimate:DiagramModelGroup"
+      id="7b92657c-df31-4f8f-a163-e699a6d0f7bc"
+      name="FiToLu Translate"
+      targetConnections="62fffe99-430a-4631-99db-86808a149524">
     <bounds
-        x="456"
-        y="156"
-        width="157"
-        height="133"/>
-  </children>
-  <children
-      xsi:type="archimate:SketchModelActor"
-      id="8fbaf724-bcec-482f-b9b4-c08863c388b5"
-      name="Pracovník pre kontakt so zákazníkom">
-    <sourceConnections
-        id="4f5bb221-d48c-4588-b1e1-2339a254b9e5"
-        source="8fbaf724-bcec-482f-b9b4-c08863c388b5"
-        target="838bb7d6-c743-4410-9387-56e80eecc1a4"/>
-    <bounds
-        x="210"
-        y="60"
-        width="229"
-        height="65"/>
+        x="204"
+        y="144"
+        width="667"
+        height="181"/>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="999a7e05-0364-4fa7-a6f8-e5d5b6a96122"
+        name="Sticky"
+        targetConnections="4eed7c55-d784-47cb-be60-f626d0abe658 12232151-ab19-445c-a040-47a361155e6a"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffb5"
+        content="Oddelenie prekladateľov a tlmočníkov&#xD;&#xA;">
+      <sourceConnections
+          id="343403b7-a138-41c4-a87d-7ab27cb004ee"
+          source="999a7e05-0364-4fa7-a6f8-e5d5b6a96122"
+          target="47f650b5-8e97-4b32-b466-f10ba538540d"/>
+      <bounds
+          x="432"
+          y="36"
+          width="193"
+          height="133"/>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="975ae912-ee06-4cef-ad77-56a2cca5d3a8"
+        name="Sticky"
+        targetConnections="8ed53f96-11f1-420b-a8c8-30d533920687"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffb5"
+        content="Personálne oddelenie (Telefonické a emailové objednávky)">
+      <sourceConnections
+          id="4eed7c55-d784-47cb-be60-f626d0abe658"
+          source="975ae912-ee06-4cef-ad77-56a2cca5d3a8"
+          target="999a7e05-0364-4fa7-a6f8-e5d5b6a96122"/>
+      <sourceConnections
+          id="c1bbcbe2-b4c6-4e6e-8275-6d184365e6d2"
+          source="975ae912-ee06-4cef-ad77-56a2cca5d3a8"
+          target="0100bfcc-7824-40b0-9981-eae3fcf669af"/>
+      <bounds
+          x="240"
+          y="36"
+          width="157"
+          height="61"/>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="0100bfcc-7824-40b0-9981-eae3fcf669af"
+        name="Sticky"
+        targetConnections="74098a91-1053-42c7-954f-b2d3eaaecb3d c1bbcbe2-b4c6-4e6e-8275-6d184365e6d2"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffb5"
+        content="Back Office&#xD;&#xA;">
+      <sourceConnections
+          id="12232151-ab19-445c-a040-47a361155e6a"
+          source="0100bfcc-7824-40b0-9981-eae3fcf669af"
+          target="999a7e05-0364-4fa7-a6f8-e5d5b6a96122"/>
+      <bounds
+          x="240"
+          y="108"
+          width="157"
+          height="61"/>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="838bb7d6-c743-4410-9387-56e80eecc1a4"
+        name="Sticky"
+        targetConnections="800da0ed-1d38-4e77-b29d-50e7c0b0d33a"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#ffffb5"
+        content="Front office (Telefonické a emailové objednávky)">
+      <sourceConnections
+          id="8ed53f96-11f1-420b-a8c8-30d533920687"
+          source="838bb7d6-c743-4410-9387-56e80eecc1a4"
+          target="975ae912-ee06-4cef-ad77-56a2cca5d3a8"/>
+      <sourceConnections
+          id="74098a91-1053-42c7-954f-b2d3eaaecb3d"
+          source="838bb7d6-c743-4410-9387-56e80eecc1a4"
+          target="0100bfcc-7824-40b0-9981-eae3fcf669af"/>
+      <bounds
+          x="12"
+          y="36"
+          width="193"
+          height="133"/>
+    </children>
   </children>
 </archimate:SketchModel>
