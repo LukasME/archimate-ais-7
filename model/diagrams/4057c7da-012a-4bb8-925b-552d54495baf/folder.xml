@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Biznis vrstva architektúry"
-    id="4057c7da-012a-4bb8-925b-552d54495baf"/>
+    id="4057c7da-012a-4bb8-925b-552d54495baf"
+    documentation="Function viewpoint: Ide o to aké funkcie ktorá rola vykonáva, prípadne ktorá rola si s ktorou vymieňa a aké informácie.&#xD;&#xA;-- Ísť podľa druhej prednášky, kde je informácia o tom, koľko diagramov potrebujeme robiť.&#xD;&#xA;Pri produkte treba názov v jednotnom čísle. -- priklad: Prenájom tlmočníka&#xD;&#xA;Rolu, určiť pre koho je ten produkt&#xD;&#xA;Pridať kontrakt do produktu&#xD;&#xA;Použiť element biznis objekt, keď informujeme zákazníka o priradení prekladateľa&#xD;&#xA;Spätnú väzbu možno odčleniť do samostatného procesu -- alebo možno nie. Dalo by sa aj tak, že iný proces vyvoláme z toho základného.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>
