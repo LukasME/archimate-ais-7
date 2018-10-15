@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Function viewpoint"
-    id="5abe764d-8fcb-4b77-8f9e-1510a4a0891a">
+    id="5abe764d-8fcb-4b77-8f9e-1510a4a0891a"
+    documentation="V čom je rozdiel oproti Organization view? Nám sa to zdá ako 1:1 len so zmenou vzťahov.&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="061f56b3-0c6a-4ff1-a556-3f94d1e9d236">
