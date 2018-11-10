@@ -6,50 +6,50 @@
     documentation="V čom je rozdiel oproti Organization view? Nám sa to zdá ako 1:1 len so zmenou vzťahov.&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="061f56b3-0c6a-4ff1-a556-3f94d1e9d236">
+      id="8d09a75d-946e-41b8-9065-0ba0840729e9">
     <bounds
-        x="348"
-        y="48"
-        width="401"
-        height="205"/>
+        x="396"
+        y="36"
+        width="322"
+        height="157"/>
     <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_53679d0a-6887-418d-a6db-b1991e0739cf.xml#53679d0a-6887-418d-a6db-b1991e0739cf"/>
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_5a8e5f86-82bf-4001-8cfe-b0c9938c3efc.xml#5a8e5f86-82bf-4001-8cfe-b0c9938c3efc"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="5cc5c2ad-b0c8-4514-a44d-b6f72cd35aa9">
+      id="069f2027-57f6-4642-8c91-77821099ecba">
     <bounds
-        x="348"
-        y="276"
-        width="401"
-        height="205"/>
+        x="396"
+        y="216"
+        width="349"
+        height="121"/>
     <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_71db96ec-02bc-470b-9c60-459e479c5854.xml#71db96ec-02bc-470b-9c60-459e479c5854"/>
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_83bc3018-4d82-475d-943a-130777640191.xml#83bc3018-4d82-475d-943a-130777640191"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="406903bd-5c24-4294-9768-ee3a32f746c8">
+      id="24b93db2-0512-4518-b736-c17b013a9ba2">
     <bounds
-        x="348"
-        y="504"
-        width="401"
-        height="205"/>
+        x="396"
+        y="360"
+        width="349"
+        height="150"/>
     <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_6a6b0e96-6d6d-44b4-96b9-2435b1b69fe2.xml#6a6b0e96-6d6d-44b4-96b9-2435b1b69fe2"/>
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_69f9a4eb-a470-4a16-b70d-cf3998f49808.xml#69f9a4eb-a470-4a16-b70d-cf3998f49808"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="9f6fb627-3ace-4ac7-af43-2fa9a0aabcc6">
+      id="fbc27a5d-f0b1-4303-8bce-eee2e3d9f2f2">
     <bounds
-        x="348"
-        y="732"
-        width="401"
-        height="229"/>
+        x="396"
+        y="528"
+        width="349"
+        height="169"/>
     <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_1e1d4203-9600-4c99-b38e-31c29169d7e2.xml#1e1d4203-9600-4c99-b38e-31c29169d7e2"/>
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_519dd29c-ee52-4323-9342-e50fa645818c.xml#519dd29c-ee52-4323-9342-e50fa645818c"/>
   </children>
 </archimate:ArchimateDiagramModel>
