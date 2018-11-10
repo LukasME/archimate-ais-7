@@ -22,16 +22,15 @@
         xsi:type="archimate:SketchModelSticky"
         id="46180df7-0ab8-4c95-b531-d87b72b5a051"
         name="Sticky"
-        targetConnections="8bc5a9ae-672a-4e17-a9f3-d23549857bfd"
+        targetConnections="e46604aa-70b2-456e-97af-fae6e05a4271"
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#c9e7b7"
         content="Predbežná kalkulácia objednávky&#xD;&#xA;">
       <sourceConnections
-          id="0f087c02-487c-4491-8e51-61f0e610de4c"
+          id="a61cfac2-e554-4d38-9498-f09b6b12695b"
           source="46180df7-0ab8-4c95-b531-d87b72b5a051"
-          target="9411ea10-9085-4b39-83eb-a279ccb49832"
-          type="3"/>
+          target="9411ea10-9085-4b39-83eb-a279ccb49832"/>
       <bounds
           x="12"
           y="24"
@@ -42,16 +41,15 @@
         xsi:type="archimate:SketchModelSticky"
         id="9411ea10-9085-4b39-83eb-a279ccb49832"
         name="Sticky"
-        targetConnections="ccc499af-30c0-48f4-a7b9-f5391915612e 0f087c02-487c-4491-8e51-61f0e610de4c"
+        targetConnections="6002799f-eb01-4d07-88af-d2d80488a097 a61cfac2-e554-4d38-9498-f09b6b12695b"
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffc400"
         content="Požiadavka na objednávku&#xD;&#xA;">
       <sourceConnections
-          id="1b5262bc-57af-460e-8df3-4cc8460f1a00"
+          id="8730221d-ffae-46d1-90de-35b9ba365989"
           source="9411ea10-9085-4b39-83eb-a279ccb49832"
-          target="c86fc267-8a86-4e6a-a3a2-edf1f71dbc7b"
-          type="1"/>
+          target="a405be5f-db05-4443-a884-9341b0453912"/>
       <bounds
           x="168"
           y="24"
@@ -62,25 +60,23 @@
         xsi:type="archimate:SketchModelSticky"
         id="85d12d1c-f4d2-40f5-a763-53d59b7f0bed"
         name="Sticky"
+        fontColor="#000000"
         lineColor="#5c5c5c"
         textAlignment="1"
-        fillColor="#60ff60"
+        fillColor="#80ffff"
         content="Nahratie ukážky &#xD;&#xA;">
       <sourceConnections
-          id="ccc499af-30c0-48f4-a7b9-f5391915612e"
+          id="6002799f-eb01-4d07-88af-d2d80488a097"
           source="85d12d1c-f4d2-40f5-a763-53d59b7f0bed"
-          target="9411ea10-9085-4b39-83eb-a279ccb49832"
-          type="1"/>
+          target="9411ea10-9085-4b39-83eb-a279ccb49832"/>
       <sourceConnections
-          id="385c33c7-bba9-4c86-b62a-6d6ab5839a88"
+          id="5e52f779-2486-4561-b8e3-f974a5b68669"
           source="85d12d1c-f4d2-40f5-a763-53d59b7f0bed"
-          target="fc722143-034c-49c1-88ec-55122845833a"
-          type="3"/>
+          target="580d2c85-3583-4826-8a05-86e6517b0db8"/>
       <sourceConnections
-          id="d7e1e7b2-d8a2-482b-a113-59e309f9a1a2"
+          id="a5c05865-8f8b-47c2-a25c-829c88d760c3"
           source="85d12d1c-f4d2-40f5-a763-53d59b7f0bed"
-          target="580d2c85-3583-4826-8a05-86e6517b0db8"
-          type="3"/>
+          target="fc722143-034c-49c1-88ec-55122845833a"/>
       <bounds
           x="168"
           y="96"
@@ -91,16 +87,15 @@
         xsi:type="archimate:SketchModelSticky"
         id="fc722143-034c-49c1-88ec-55122845833a"
         name="Sticky"
-        targetConnections="385c33c7-bba9-4c86-b62a-6d6ab5839a88"
+        targetConnections="a5c05865-8f8b-47c2-a25c-829c88d760c3"
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#c9e7b7"
         content="Modul pre analýzu textu.&#xD;&#xA;">
       <sourceConnections
-          id="8bc5a9ae-672a-4e17-a9f3-d23549857bfd"
+          id="e46604aa-70b2-456e-97af-fae6e05a4271"
           source="fc722143-034c-49c1-88ec-55122845833a"
-          target="46180df7-0ab8-4c95-b531-d87b72b5a051"
-          type="3"/>
+          target="46180df7-0ab8-4c95-b531-d87b72b5a051"/>
       <bounds
           x="312"
           y="132"
@@ -111,16 +106,15 @@
         xsi:type="archimate:SketchModelSticky"
         id="580d2c85-3583-4826-8a05-86e6517b0db8"
         name="Sticky"
-        targetConnections="d7e1e7b2-d8a2-482b-a113-59e309f9a1a2"
+        targetConnections="5e52f779-2486-4561-b8e3-f974a5b68669"
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#c9e7b7"
         content="Modul predbežného spracovania textu">
       <sourceConnections
-          id="0a4e5e1e-5ef2-46e8-a8f8-e9e9bb925f7d"
+          id="0f9a5848-95fd-4658-acbf-6c098bf29dd2"
           source="580d2c85-3583-4826-8a05-86e6517b0db8"
-          target="03196a04-ba55-4a55-a839-f2bb5eb6ad7f"
-          type="1"/>
+          target="03196a04-ba55-4a55-a839-f2bb5eb6ad7f"/>
       <bounds
           x="312"
           y="24"
@@ -133,7 +127,7 @@
         name="Sticky"
         lineColor="#5c5c5c"
         textAlignment="1"
-        fillColor="#60ff60"
+        fillColor="#80ffff"
         content="Spätná väzba&#xD;&#xA;">
       <bounds
           x="444"
@@ -185,7 +179,7 @@
       xsi:type="archimate:SketchModelSticky"
       id="03196a04-ba55-4a55-a839-f2bb5eb6ad7f"
       name="Sticky"
-      targetConnections="0a4e5e1e-5ef2-46e8-a8f8-e9e9bb925f7d"
+      targetConnections="0f9a5848-95fd-4658-acbf-6c098bf29dd2"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
@@ -228,7 +222,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="a405be5f-db05-4443-a884-9341b0453912"
       name="FiToLu Translate"
-      targetConnections="464a65dc-7377-4131-a951-37aa47e7e453">
+      targetConnections="464a65dc-7377-4131-a951-37aa47e7e453 8730221d-ffae-46d1-90de-35b9ba365989">
     <bounds
         x="72"
         y="120"
@@ -280,7 +274,6 @@
         xsi:type="archimate:SketchModelSticky"
         id="c86fc267-8a86-4e6a-a3a2-edf1f71dbc7b"
         name="Sticky"
-        targetConnections="1b5262bc-57af-460e-8df3-4cc8460f1a00"
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffb5"
