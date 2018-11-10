@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cena"
+    id="af6aa308-8d56-4f7c-ab0f-8c2e7c5f1764">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_b50b0a62-d081-4e5a-bbd6-ac366214d6ed.xml#b50b0a62-d081-4e5a-bbd6-ac366214d6ed"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_1cb6e8d5-4356-4db7-842c-38af06db0fed.xml#1cb6e8d5-4356-4db7-842c-38af06db0fed"/>
+</archimate:FlowRelationship>

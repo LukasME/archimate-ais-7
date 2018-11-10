@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informácie o texte"
+    id="6042cdc3-87b9-450c-81a9-113715c811b2">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_fdb328e6-3cc2-40e5-b470-28adf5774716.xml#fdb328e6-3cc2-40e5-b470-28adf5774716"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_c9370ebf-7823-41df-9b5f-539e6cebd840.xml#c9370ebf-7823-41df-9b5f-539e6cebd840"/>
+</archimate:FlowRelationship>

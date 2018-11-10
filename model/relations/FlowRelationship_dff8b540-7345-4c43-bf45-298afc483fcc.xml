@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spätná väzba"
+    id="dff8b540-7345-4c43-bf45-298afc483fcc">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_7368bc68-5b7b-4d23-935c-e9dc480a1617.xml#7368bc68-5b7b-4d23-935c-e9dc480a1617"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_69f9a4eb-a470-4a16-b70d-cf3998f49808.xml#69f9a4eb-a470-4a16-b70d-cf3998f49808"/>
+</archimate:FlowRelationship>

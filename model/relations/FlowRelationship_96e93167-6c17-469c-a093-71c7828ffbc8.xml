@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Preklad"
+    id="96e93167-6c17-469c-a093-71c7828ffbc8">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_29254691-34d9-4d5c-aea0-ddba22c32693.xml#29254691-34d9-4d5c-aea0-ddba22c32693"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_1cb6e8d5-4356-4db7-842c-38af06db0fed.xml#1cb6e8d5-4356-4db7-842c-38af06db0fed"/>
+</archimate:FlowRelationship>

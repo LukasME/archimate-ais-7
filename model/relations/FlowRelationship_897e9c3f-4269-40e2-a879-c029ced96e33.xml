@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Návrh ceny"
+    id="897e9c3f-4269-40e2-a879-c029ced96e33">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_c9370ebf-7823-41df-9b5f-539e6cebd840.xml#c9370ebf-7823-41df-9b5f-539e6cebd840"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_5a8e5f86-82bf-4001-8cfe-b0c9938c3efc.xml#5a8e5f86-82bf-4001-8cfe-b0c9938c3efc"/>
+</archimate:FlowRelationship>

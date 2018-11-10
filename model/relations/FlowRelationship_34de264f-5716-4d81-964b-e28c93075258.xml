@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Objednávka"
+    id="34de264f-5716-4d81-964b-e28c93075258">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_bbf3506f-60b7-48ae-8a33-f74d944d74be.xml#bbf3506f-60b7-48ae-8a33-f74d944d74be"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_266fa3b4-985b-469c-b4f6-24a6966ba6b7.xml#266fa3b4-985b-469c-b4f6-24a6966ba6b7"/>
+</archimate:FlowRelationship>
