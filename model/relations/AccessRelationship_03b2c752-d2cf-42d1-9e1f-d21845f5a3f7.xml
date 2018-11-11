@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Čítanie"
+    id="03b2c752-d2cf-42d1-9e1f-d21845f5a3f7"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_d72dfdcf-b2b9-41ae-8721-7524380ce21d.xml#d72dfdcf-b2b9-41ae-8721-7524380ce21d"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_a99b9a63-e3f1-4282-82a9-b301aa8a8663.xml#a99b9a63-e3f1-4282-82a9-b301aa8a8663"/>
+</archimate:AccessRelationship>

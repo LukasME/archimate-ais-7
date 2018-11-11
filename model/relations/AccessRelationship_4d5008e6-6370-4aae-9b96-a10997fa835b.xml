@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Čítanie / Zápis ceny"
+    id="4d5008e6-6370-4aae-9b96-a10997fa835b"
+    accessType="3">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_975fa045-6a6a-4837-a006-9b554b08fb88.xml#975fa045-6a6a-4837-a006-9b554b08fb88"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_ffb9b9a0-4e0c-47bc-9c4b-503ece504b75.xml#ffb9b9a0-4e0c-47bc-9c4b-503ece504b75"/>
+</archimate:AccessRelationship>

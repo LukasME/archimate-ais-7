@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vytvorenie"
+    id="2b31602b-ab80-40e6-94de-df42ef57c387">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_88717e5e-51fc-41df-b845-e8248481a3f0.xml#88717e5e-51fc-41df-b845-e8248481a3f0"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_21b2a34c-f441-48f9-8b3b-f8bc825b87c2.xml#21b2a34c-f441-48f9-8b3b-f8bc825b87c2"/>
+</archimate:AccessRelationship>
