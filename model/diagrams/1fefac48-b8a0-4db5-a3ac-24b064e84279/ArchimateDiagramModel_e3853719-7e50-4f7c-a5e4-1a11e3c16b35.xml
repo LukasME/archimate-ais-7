@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Infrastructure cooperation view &quot;AS IS&quot;"
     id="e3853719-7e50-4f7c-a5e4-1a11e3c16b35"
-    documentation="Do TO BE pridať FTP server">
+    documentation="Do TO BE pridať FTP server&#xD;&#xA;Opytat sa ci tam ma zmysel mat FIREWALL - INTERNET - FIREWALL, kedze web a interny system nie su nijako prepojene">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f49efa80-11de-485d-acc8-b96f3ebf1a55"
@@ -145,15 +145,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="ff7a65be-4748-4dcf-9bf5-527b16be9482">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="15538d76-59af-4a89-87c8-306dfe6ac060"
-          source="ff7a65be-4748-4dcf-9bf5-527b16be9482"
-          target="f86d3e80-954b-4f03-97c1-10d468363770">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_bd66f0a2-88d8-4705-bc4b-008f51ff3d4b.xml#bd66f0a2-88d8-4705-bc4b-008f51ff3d4b"/>
-      </sourceConnections>
       <bounds
           x="144"
           y="48"
@@ -234,19 +225,6 @@
     <archimateElement
         xsi:type="archimate:Node"
         href="Node_d683851a-feba-4eb5-a2dc-0db53d53fee7.xml#d683851a-feba-4eb5-a2dc-0db53d53fee7"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="f86d3e80-954b-4f03-97c1-10d468363770"
-      targetConnections="15538d76-59af-4a89-87c8-306dfe6ac060">
-    <bounds
-        x="840"
-        y="96"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyService"
-        href="TechnologyService_e2fbe8ad-6fd9-43f2-902d-6b9bfa85df94.xml#e2fbe8ad-6fd9-43f2-902d-6b9bfa85df94"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
