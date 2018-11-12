@@ -32,9 +32,9 @@
     </sourceConnections>
     <bounds
         x="212"
-        y="690"
+        y="660"
         width="120"
-        height="55"/>
+        height="85"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_e5991012-7b7b-4d30-910e-a0d2de8766c5.xml#e5991012-7b7b-4d30-910e-a0d2de8766c5"/>
@@ -620,7 +620,7 @@
         x="704"
         y="472"
         width="120"
-        height="55"/>
+        height="90"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_edb9f771-248c-4d4d-a470-50698f0187d7.xml#edb9f771-248c-4d4d-a470-50698f0187d7"/>
