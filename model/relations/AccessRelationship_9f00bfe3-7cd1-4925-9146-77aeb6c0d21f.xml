@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vytvára"
+    id="9f00bfe3-7cd1-4925-9146-77aeb6c0d21f">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_1211b7d8-8a66-467a-a5e6-c664ff005cad.xml#1211b7d8-8a66-467a-a5e6-c664ff005cad"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_a0fe1f9a-62cc-41bb-b834-2aeb890cce85.xml#a0fe1f9a-62cc-41bb-b834-2aeb890cce85"/>
+</archimate:AccessRelationship>

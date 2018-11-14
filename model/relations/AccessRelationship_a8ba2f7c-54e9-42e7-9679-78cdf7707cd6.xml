@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Používa"
+    id="a8ba2f7c-54e9-42e7-9679-78cdf7707cd6"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_c9370ebf-7823-41df-9b5f-539e6cebd840.xml#c9370ebf-7823-41df-9b5f-539e6cebd840"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_6f80163e-441e-44fa-ae2a-3cb708b7aa07.xml#6f80163e-441e-44fa-ae2a-3cb708b7aa07"/>
+</archimate:AccessRelationship>
