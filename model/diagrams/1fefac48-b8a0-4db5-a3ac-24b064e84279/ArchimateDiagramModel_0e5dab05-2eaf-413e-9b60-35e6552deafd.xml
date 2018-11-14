@@ -85,7 +85,7 @@
           x="120"
           y="51"
           width="109"
-          height="49"/>
+          height="58"/>
       <archimateElement
           xsi:type="archimate:SystemSoftware"
           href="SystemSoftware_30807197-e115-4620-9f81-6dc07e3d6866.xml#30807197-e115-4620-9f81-6dc07e3d6866"/>
@@ -108,7 +108,7 @@
       </sourceConnections>
       <bounds
           x="204"
-          y="111"
+          y="120"
           width="109"
           height="49"/>
       <archimateElement
@@ -132,7 +132,7 @@
           x="240"
           y="51"
           width="73"
-          height="49"/>
+          height="58"/>
       <archimateElement
           xsi:type="archimate:SystemSoftware"
           href="SystemSoftware_124fe021-2e41-4ba4-8328-765d29a58ef3.xml#124fe021-2e41-4ba4-8328-765d29a58ef3"/>
@@ -155,7 +155,7 @@
           href="AccessRelationship_c93687d9-738a-4633-a122-22a6b0c5918e.xml#c93687d9-738a-4633-a122-22a6b0c5918e"/>
     </sourceConnections>
     <bounds
-        x="240"
+        x="264"
         y="72"
         width="109"
         height="55"/>
@@ -168,7 +168,7 @@
       id="9796c101-e0e6-4a19-996e-aba985e624df"
       targetConnections="29f959f1-ad28-4075-a1b9-36d4407800b1">
     <bounds
-        x="384"
+        x="420"
         y="72"
         width="120"
         height="55"/>
@@ -249,7 +249,7 @@
       id="27a70a15-506a-4ec8-8df3-45310bc5e9b1"
       targetConnections="16c006d5-1766-480f-9c07-cf763ca28313">
     <bounds
-        x="528"
+        x="565"
         y="72"
         width="120"
         height="55"/>
@@ -299,9 +299,9 @@
       targetConnections="f6bd4f39-79ff-4126-9d58-e9e73f8e807d">
     <bounds
         x="72"
-        y="72"
+        y="63"
         width="120"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
         href="TechnologyService_fafb64dc-f734-4581-9a75-b09c0382f0a7.xml#fafb64dc-f734-4581-9a75-b09c0382f0a7"/>
