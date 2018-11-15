@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Úprava"
+    id="cd1d0c66-fde7-4a1d-bbde-0c455c0ac992">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_4855dac1-b2d6-4172-a476-4ce606b54994.xml#4855dac1-b2d6-4172-a476-4ce606b54994"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_406f0a46-df3b-4ed5-903d-7ab0358e6951.xml#406f0a46-df3b-4ed5-903d-7ab0358e6951"/>
+</archimate:AccessRelationship>

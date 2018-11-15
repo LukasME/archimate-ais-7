@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Čítanie / Zápis informácií"
+    id="225d0566-f512-414b-87ce-bac22c2a0ce8"
+    accessType="3">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_4b28ee59-ae69-48d2-9abe-a621ff2a5828.xml#4b28ee59-ae69-48d2-9abe-a621ff2a5828"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_406f0a46-df3b-4ed5-903d-7ab0358e6951.xml#406f0a46-df3b-4ed5-903d-7ab0358e6951"/>
+</archimate:AccessRelationship>
