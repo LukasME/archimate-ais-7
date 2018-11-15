@@ -26,7 +26,7 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#c9e7b7"
-        content="Predbežná kalkulácia objednávky&#xD;&#xA;">
+        content="Predbežná kalkulácia objednávky na základe analýzy textu&#xD;&#xA;&#xD;&#xA;">
       <sourceConnections
           id="a61cfac2-e554-4d38-9498-f09b6b12695b"
           source="46180df7-0ab8-4c95-b531-d87b72b5a051"
