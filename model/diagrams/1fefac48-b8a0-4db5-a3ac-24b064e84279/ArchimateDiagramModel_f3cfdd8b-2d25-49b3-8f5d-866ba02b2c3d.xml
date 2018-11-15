@@ -9,7 +9,7 @@
       targetConnections="d6d7c87d-8272-4893-9b5e-714442525031">
     <bounds
         x="1272"
-        y="112"
+        y="118"
         width="120"
         height="55"/>
     <archimateElement
@@ -22,7 +22,7 @@
       targetConnections="9ded8996-8103-411e-882f-9f3563099ff3">
     <bounds
         x="1429"
-        y="112"
+        y="118"
         width="120"
         height="55"/>
     <archimateElement
@@ -34,9 +34,9 @@
       id="cd932606-71dc-49ca-9cbb-8b3fde0ac677"
       targetConnections="7e7e47bd-3b4b-4df4-855f-a5e7beeac475">
     <bounds
-        x="320"
-        y="110"
-        width="120"
+        x="300"
+        y="118"
+        width="140"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -48,7 +48,7 @@
       targetConnections="e8548d45-fd85-4477-b626-77ddd6ed7b89">
     <bounds
         x="1104"
-        y="112"
+        y="118"
         width="120"
         height="55"/>
     <archimateElement
@@ -61,7 +61,7 @@
       targetConnections="7dd36234-2ac4-4311-a17f-9ec4ab15bbf6">
     <bounds
         x="948"
-        y="106"
+        y="118"
         width="120"
         height="55"/>
     <archimateElement
@@ -73,8 +73,8 @@
       id="1340f683-6b83-4879-8ac0-03d0e907b62a"
       targetConnections="d05ed197-4924-42ac-be2a-6dfd79bd7284 3b7a719d-4b9c-4227-9c95-4c73ab7d84dc">
     <bounds
-        x="492"
-        y="108"
+        x="504"
+        y="118"
         width="120"
         height="55"/>
     <archimateElement
@@ -86,8 +86,8 @@
       id="606743ea-0f3d-4cfb-9c5c-99ee370bedeb"
       targetConnections="1839a562-5f62-4f3c-9230-2773d5cdf76d">
     <bounds
-        x="779"
-        y="110"
+        x="780"
+        y="118"
         width="120"
         height="55"/>
     <archimateElement
@@ -112,7 +112,7 @@
       targetConnections="ee9d077c-e083-4edb-bc84-2d89f7318478">
     <bounds
         x="647"
-        y="112"
+        y="118"
         width="120"
         height="55"/>
     <archimateElement
@@ -146,9 +146,9 @@
           href="ServingRelationship_127ee47b-72f8-4333-929b-029a70fefea4.xml#127ee47b-72f8-4333-929b-029a70fefea4"/>
     </sourceConnections>
     <bounds
-        x="325"
+        x="300"
         y="214"
-        width="109"
+        width="140"
         height="55"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
@@ -168,8 +168,8 @@
           href="ServingRelationship_7a9a2d82-5594-41fa-b91e-40874e6498d0.xml#7a9a2d82-5594-41fa-b91e-40874e6498d0"/>
     </sourceConnections>
     <bounds
-        x="540"
-        y="228"
+        x="504"
+        y="214"
         width="120"
         height="55"/>
     <archimateElement
@@ -211,10 +211,10 @@
           href="RealizationRelationship_f29392ab-bef7-41c7-b1b0-75d6b36da3ab.xml#f29392ab-bef7-41c7-b1b0-75d6b36da3ab"/>
     </sourceConnections>
     <bounds
-        x="1127"
-        y="330"
-        width="97"
-        height="109"/>
+        x="1104"
+        y="356"
+        width="120"
+        height="57"/>
     <archimateElement
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_fbb31579-4a2e-45d2-bfba-654c3604b82f.xml#fbb31579-4a2e-45d2-bfba-654c3604b82f"/>
@@ -232,10 +232,10 @@
           href="RealizationRelationship_0e9b939c-25bf-4579-8f55-d5be0f242061.xml#0e9b939c-25bf-4579-8f55-d5be0f242061"/>
     </sourceConnections>
     <bounds
-        x="552"
-        y="346"
-        width="73"
-        height="49"/>
+        x="504"
+        y="357"
+        width="120"
+        height="55"/>
     <archimateElement
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_8c0693fc-be28-4ee7-b80b-64fc36c1b2df.xml#8c0693fc-be28-4ee7-b80b-64fc36c1b2df"/>
@@ -254,9 +254,9 @@
     </sourceConnections>
     <bounds
         x="300"
-        y="349"
+        y="355"
         width="140"
-        height="68"/>
+        height="55"/>
     <archimateElement
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_124fe021-2e41-4ba4-8328-765d29a58ef3.xml#124fe021-2e41-4ba4-8328-765d29a58ef3"/>
@@ -346,7 +346,7 @@
     </sourceConnections>
     <bounds
         x="756"
-        y="228"
+        y="214"
         width="120"
         height="55"/>
     <archimateElement
@@ -367,7 +367,7 @@
           href="ServingRelationship_36ba3187-e2a2-46ed-9855-8f8c78d8f84b.xml#36ba3187-e2a2-46ed-9855-8f8c78d8f84b"/>
     </sourceConnections>
     <bounds
-        x="1281"
+        x="1272"
         y="222"
         width="120"
         height="55"/>
@@ -472,9 +472,9 @@
           href="RealizationRelationship_c7537a93-cda8-4ced-b023-be58489bb9ae.xml#c7537a93-cda8-4ced-b023-be58489bb9ae"/>
     </sourceConnections>
     <bounds
-        x="1281"
-        y="357"
-        width="102"
+        x="1272"
+        y="355"
+        width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:SystemSoftware"
@@ -493,8 +493,8 @@
           href="RealizationRelationship_bdb3007d-4806-4ffe-9e5e-a93afb039071.xml#bdb3007d-4806-4ffe-9e5e-a93afb039071"/>
     </sourceConnections>
     <bounds
-        x="756"
-        y="353"
+        x="766"
+        y="355"
         width="120"
         height="55"/>
     <archimateElement
