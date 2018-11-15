@@ -917,11 +917,25 @@
         target="fbda0889-20ac-4e34-b775-dbab5090141c">
       <bendpoints
           startX="96"
+          startY="-15"
+          endX="12"
+          endY="141"/>
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_cbbfdf70-c3f3-4059-8afc-f047a5283ad1.xml#cbbfdf70-c3f3-4059-8afc-f047a5283ad1"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="1a92e7f2-7f47-4fea-adb3-afb0bf8844b3"
+        source="5912489e-7751-421b-9598-4aab8ab208b4"
+        target="63ec1881-7231-4be4-afd1-1c0386776115">
+      <bendpoints
+          startX="408"
           startY="9"
           endY="165"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_cbbfdf70-c3f3-4059-8afc-f047a5283ad1.xml#cbbfdf70-c3f3-4059-8afc-f047a5283ad1"/>
+          href="RealizationRelationship_7d041931-b229-4d32-82cc-fd96721db1ce.xml#7d041931-b229-4d32-82cc-fd96721db1ce"/>
     </sourceConnections>
     <bounds
         x="708"
@@ -958,27 +972,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_33dfa76d-aa01-4d75-b05a-96b5852f5fd2.xml#33dfa76d-aa01-4d75-b05a-96b5852f5fd2"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="3ca7fb3e-7f46-4f64-901a-dc7dd21d1005">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="1a92e7f2-7f47-4fea-adb3-afb0bf8844b3"
-        source="3ca7fb3e-7f46-4f64-901a-dc7dd21d1005"
-        target="63ec1881-7231-4be4-afd1-1c0386776115">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_7d041931-b229-4d32-82cc-fd96721db1ce.xml#7d041931-b229-4d32-82cc-fd96721db1ce"/>
-    </sourceConnections>
-    <bounds
-        x="1116"
-        y="780"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_25e61ec1-0b54-4167-b594-987d76b28e1c.xml#25e61ec1-0b54-4167-b594-987d76b28e1c"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
