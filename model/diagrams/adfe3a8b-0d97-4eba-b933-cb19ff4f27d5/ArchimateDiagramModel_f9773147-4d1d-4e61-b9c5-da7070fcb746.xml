@@ -220,6 +220,18 @@
             xsi:type="archimate:BusinessActor"
             href="BusinessActor_92ea4c6e-1db3-40d5-9a38-eaf1e37ccbd5.xml#92ea4c6e-1db3-40d5-9a38-eaf1e37ccbd5"/>
       </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="6aa4bf35-4b72-4a95-a600-a6efcaec245a">
+        <bounds
+            x="156"
+            y="84"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:BusinessActor"
+            href="BusinessActor_d2700853-ff24-422a-864d-8eae9d7c9159.xml#d2700853-ff24-422a-864d-8eae9d7c9159"/>
+      </children>
       <archimateElement
           xsi:type="archimate:BusinessActor"
           href="BusinessActor_53679d0a-6887-418d-a6db-b1991e0739cf.xml#53679d0a-6887-418d-a6db-b1991e0739cf"/>

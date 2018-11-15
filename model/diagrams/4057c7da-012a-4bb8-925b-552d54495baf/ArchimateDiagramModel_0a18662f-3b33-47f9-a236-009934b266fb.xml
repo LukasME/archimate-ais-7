@@ -131,6 +131,21 @@
           id="a72679e6-6d22-4ee1-9949-90043df81292"
           source="74e50717-9ca3-4de3-8330-f12c56eccc95"
           target="5acb300c-d244-43f0-924d-67dccbba7f49">
+        <bendpoints
+            startX="-77"
+            startY="21"
+            endX="168"
+            endY="-123"/>
+        <bendpoints
+            startX="-77"
+            startY="93"
+            endX="168"
+            endY="-51"/>
+        <bendpoints
+            startX="-185"
+            startY="93"
+            endX="60"
+            endY="-51"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_36331924-ba71-4ed9-acfb-1bc7d35fa3c7.xml#36331924-ba71-4ed9-acfb-1bc7d35fa3c7"/>
@@ -263,6 +278,31 @@
         id="4a11089c-dee8-4940-8626-57681cb0156e"
         source="644642af-0f20-4569-8450-e83802c12fe5"
         target="9a58c61a-d5fe-467d-9167-43b512796746">
+      <bendpoints
+          startX="36"
+          startY="-51"
+          endX="-209"
+          endY="93"/>
+      <bendpoints
+          startX="132"
+          startY="-51"
+          endX="-113"
+          endY="93"/>
+      <bendpoints
+          startX="132"
+          startY="-99"
+          endX="-113"
+          endY="45"/>
+      <bendpoints
+          startX="168"
+          startY="-99"
+          endX="-77"
+          endY="45"/>
+      <bendpoints
+          startX="168"
+          startY="-123"
+          endX="-77"
+          endY="21"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_d5dadddf-66b2-4a04-b3af-92f2625a3854.xml#d5dadddf-66b2-4a04-b3af-92f2625a3854"/>
@@ -346,6 +386,21 @@
         id="a775f22e-d03a-4414-ab6a-8730b27d9a65"
         source="98516787-f05c-4363-8533-2c412cbdf1a8"
         target="2552fec5-534f-4cb1-ad84-7249d3e6017b">
+      <bendpoints
+          startX="60"
+          startY="-51"
+          endX="-209"
+          endY="93"/>
+      <bendpoints
+          startX="180"
+          startY="-51"
+          endX="-89"
+          endY="93"/>
+      <bendpoints
+          startX="180"
+          startY="-135"
+          endX="-89"
+          endY="9"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_1f4d3424-0a02-44a9-93df-94977d50bcc1.xml#1f4d3424-0a02-44a9-93df-94977d50bcc1"/>

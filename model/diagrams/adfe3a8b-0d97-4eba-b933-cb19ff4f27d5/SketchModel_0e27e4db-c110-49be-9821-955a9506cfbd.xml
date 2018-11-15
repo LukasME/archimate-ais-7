@@ -16,7 +16,7 @@
     <bounds
         x="228"
         y="336"
-        width="217"
+        width="289"
         height="121"/>
     <children
         xsi:type="archimate:SketchModelSticky"
@@ -31,10 +31,24 @@
           source="05e55134-56b6-4ea0-97b1-fac6d466b702"
           target="838bb7d6-c743-4410-9387-56e80eecc1a4"/>
       <bounds
-          x="60"
+          x="24"
           y="36"
           width="97"
           height="49"/>
+    </children>
+    <children
+        xsi:type="archimate:SketchModelSticky"
+        id="013eb6d9-cf9e-4ccc-a161-d39f54aa46ae"
+        name="Sticky"
+        lineColor="#5c5c5c"
+        textAlignment="1"
+        fillColor="#c9e7b7"
+        content="Predbežná kalkulácia objednávky&#xD;&#xA;">
+      <bounds
+          x="132"
+          y="26"
+          width="135"
+          height="70"/>
     </children>
   </children>
   <children
@@ -109,20 +123,6 @@
           y="36"
           width="193"
           height="133"/>
-      <children
-          xsi:type="archimate:SketchModelSticky"
-          id="013eb6d9-cf9e-4ccc-a161-d39f54aa46ae"
-          name="Sticky"
-          lineColor="#5c5c5c"
-          textAlignment="1"
-          fillColor="#c9e7b7"
-          content="Predbežná kalkulácia objednávky&#xD;&#xA;">
-        <bounds
-            x="36"
-            y="48"
-            width="135"
-            height="70"/>
-      </children>
     </children>
     <children
         xsi:type="archimate:SketchModelSticky"
@@ -132,7 +132,7 @@
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffb5"
-        content="Personálne oddelenie (Telefonické a emailové objednávky)">
+        content="Personálne oddelenie ">
       <sourceConnections
           id="4eed7c55-d784-47cb-be60-f626d0abe658"
           source="975ae912-ee06-4cef-ad77-56a2cca5d3a8"
