@@ -49,6 +49,10 @@
           id="ccef8a7e-7186-49aa-a615-44c7fa568311"
           source="e4b555a4-8389-49a7-b821-cd6fd349dfa6"
           target="43f91be7-9c9e-49b9-bb07-a67bcbc85b54">
+        <bendpoints
+            startX="207"
+            startY="-3"
+            endY="213"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_9b4963fc-96a9-49a8-8fc3-d5487ce941e6.xml#9b4963fc-96a9-49a8-8fc3-d5487ce941e6"/>
@@ -58,6 +62,15 @@
           id="234e056c-c282-46b2-ab79-035f71a0f2d5"
           source="e4b555a4-8389-49a7-b821-cd6fd349dfa6"
           target="0f0a7e6b-658b-4902-8764-97df42acd938">
+        <bendpoints
+            startX="207"
+            startY="9"
+            endX="-144"
+            endY="225"/>
+        <bendpoints
+            startX="351"
+            startY="9"
+            endY="225"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_d96edbaf-3511-4e2f-9175-7619133a8db7.xml#d96edbaf-3511-4e2f-9175-7619133a8db7"/>
@@ -197,9 +210,9 @@
           endY="-255"/>
       <bendpoints
           startX="229"
-          startY="345"
+          startY="357"
           endX="-249"
-          endY="-3"/>
+          endY="9"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_e2d6400a-e2b1-4a7b-a042-f9eedc08f960.xml#e2d6400a-e2b1-4a7b-a042-f9eedc08f960"/>
@@ -235,6 +248,16 @@
         id="c49f93ac-fb3a-4419-bac9-3c263c21f7df"
         source="e5a0e46b-947f-495a-ba99-5e04047647ab"
         target="3baa00ce-8010-4581-8165-d7cbeef7daeb">
+      <bendpoints
+          startX="84"
+          startY="-3"
+          endX="-213"
+          endY="-351"/>
+      <bendpoints
+          startX="84"
+          startY="333"
+          endX="-213"
+          endY="-15"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_de453aad-0667-4c97-b71f-62b1cd0c4004.xml#de453aad-0667-4c97-b71f-62b1cd0c4004"/>
@@ -253,7 +276,7 @@
       id="1ef00d1b-4c8d-46e2-8637-c1396fa1f981"
       targetConnections="ffb1a0e8-2216-4517-a6f9-0afe25af6ae1">
     <bounds
-        x="709"
+        x="720"
         y="36"
         width="120"
         height="55"/>
@@ -266,7 +289,7 @@
       id="43f91be7-9c9e-49b9-bb07-a67bcbc85b54"
       targetConnections="ccef8a7e-7186-49aa-a615-44c7fa568311">
     <bounds
-        x="852"
+        x="864"
         y="36"
         width="120"
         height="55"/>
@@ -279,7 +302,7 @@
       id="0f0a7e6b-658b-4902-8764-97df42acd938"
       targetConnections="234e056c-c282-46b2-ab79-035f71a0f2d5">
     <bounds
-        x="996"
+        x="1008"
         y="36"
         width="120"
         height="55"/>
@@ -313,7 +336,7 @@
       id="09ac966d-7755-4369-b375-0395222f9f67"
       targetConnections="d9d4a598-6fd6-459b-8368-ffe5644f859c">
     <bounds
-        x="1140"
+        x="1152"
         y="36"
         width="120"
         height="55"/>
