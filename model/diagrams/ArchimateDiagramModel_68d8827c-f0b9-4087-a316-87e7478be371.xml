@@ -2490,9 +2490,9 @@
           endX="-228"
           endY="536"/>
       <bendpoints
-          startX="252"
-          startY="-502"
-          endX="-120"
+          startX="264"
+          startY="-503"
+          endX="-108"
           endY="536"/>
       <bendpoints
           startX="264"
@@ -2560,20 +2560,15 @@
           endX="-168"
           endY="700"/>
       <bendpoints
-          startX="108"
-          startY="-82"
+          startX="107"
+          startY="-95"
           endX="-96"
-          endY="700"/>
+          endY="561"/>
       <bendpoints
-          startX="120"
-          startY="-226"
-          endX="-84"
-          endY="556"/>
-      <bendpoints
-          startX="132"
-          startY="-346"
+          startX="131"
+          startY="-275"
           endX="-72"
-          endY="436"/>
+          endY="381"/>
       <bendpoints
           startX="132"
           startY="-778"
