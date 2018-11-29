@@ -100,14 +100,24 @@
           id="fc55dec5-b5fd-4e12-ac9f-1ca744c152fc"
           source="ede4d0ba-b3ba-4eb0-bdeb-9157d46a643b"
           target="2c6db371-2d44-4824-af18-be4acfa2dcbe">
+        <bendpoints
+            startX="-36"
+            startY="57"
+            endX="65"
+            endY="-87"/>
+        <bendpoints
+            startX="-156"
+            startY="57"
+            endX="-55"
+            endY="-87"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_155fc555-f324-41de-8fd7-e0b6bc2105b2.xml#155fc555-f324-41de-8fd7-e0b6bc2105b2"/>
       </sourceConnections>
       <bounds
-          x="516"
+          x="504"
           y="60"
-          width="120"
+          width="132"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -284,10 +294,10 @@
           endX="-72"
           endY="93"/>
       <bendpoints
-          startX="173"
-          startY="-135"
-          endX="-72"
-          endY="9"/>
+          startX="185"
+          startY="-51"
+          endX="-60"
+          endY="93"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_d5dadddf-66b2-4a04-b3af-92f2625a3854.xml#d5dadddf-66b2-4a04-b3af-92f2625a3854"/>

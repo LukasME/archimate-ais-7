@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vyttvorenie"
+    name="Vytvorenie"
     id="632f16e7-cb4e-4324-aea2-4bb2bba9734f">
   <source
       xsi:type="archimate:BusinessProcess"
