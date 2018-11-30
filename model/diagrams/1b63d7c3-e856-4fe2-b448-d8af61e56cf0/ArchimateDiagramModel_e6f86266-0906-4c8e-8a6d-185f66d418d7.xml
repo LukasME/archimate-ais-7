@@ -39,7 +39,7 @@
       id="14874c24-2fe3-4fb6-abf7-2bb71a7c149f"
       targetConnections="397c98d3-73e7-402a-acd0-c3182a83f3fc">
     <bounds
-        x="840"
+        x="888"
         y="216"
         width="120"
         height="55"/>
@@ -231,8 +231,14 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="397c98d3-73e7-402a-acd0-c3182a83f3fc"
+          textPosition="2"
           source="604f83c4-c7bf-473d-a357-df2cc1bf28aa"
           target="14874c24-2fe3-4fb6-abf7-2bb71a7c149f">
+        <bendpoints
+            startX="108"
+            startY="-17"
+            endX="-120"
+            endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_8b3b80af-5720-4310-98c1-ebacda91b47d.xml#8b3b80af-5720-4310-98c1-ebacda91b47d"/>

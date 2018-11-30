@@ -93,6 +93,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="3ddd4bec-482a-4f98-a4e4-8a761a3407fe"
+          textPosition="0"
           source="c01860bb-783a-4dc4-b41f-d34c9b577c31"
           target="6dcd7f0a-afc1-4c87-b4ab-1e18eba48bad">
         <archimateRelationship
@@ -143,6 +144,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="f9a033b8-1420-4c14-bfac-69fe8d6c1cc4"
+          textPosition="2"
           source="3ab332b3-4ada-460d-9439-a63498e6423f"
           target="6dcd7f0a-afc1-4c87-b4ab-1e18eba48bad">
         <bendpoints

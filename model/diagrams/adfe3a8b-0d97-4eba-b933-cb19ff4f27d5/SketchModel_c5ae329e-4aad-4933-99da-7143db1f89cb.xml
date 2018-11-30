@@ -146,7 +146,7 @@
         target="a405be5f-db05-4443-a884-9341b0453912"/>
     <bounds
         x="360"
-        y="49"
+        y="48"
         width="73"
         height="64"/>
   </children>
@@ -296,7 +296,7 @@
         xsi:type="archimate:SketchModelSticky"
         id="457aa47f-b27f-4355-a23d-7005f46061b1"
         name="Sticky"
-        targetConnections="d1bee2ec-d8f4-49fe-9b05-da7da0d4f480 737c0c2e-dee9-46d5-9dfd-c330fcf9e2e9"
+        targetConnections="d1bee2ec-d8f4-49fe-9b05-da7da0d4f480 737c0c2e-dee9-46d5-9dfd-c330fcf9e2e9 69873b88-657e-47d7-b8e7-4c3e98d469a7"
         lineColor="#5c5c5c"
         textAlignment="1"
         fillColor="#ffffb5"
@@ -311,5 +311,30 @@
           width="193"
           height="70"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelActor"
+      id="6b2706dc-b9c1-4ae7-9031-cfcee0a9b1c9"
+      name="Technický správca">
+    <sourceConnections
+        id="69873b88-657e-47d7-b8e7-4c3e98d469a7"
+        source="6b2706dc-b9c1-4ae7-9031-cfcee0a9b1c9"
+        target="457aa47f-b27f-4355-a23d-7005f46061b1">
+      <bendpoints
+          startX="-66"
+          startY="4"
+          endX="108"
+          endY="-191"/>
+      <bendpoints
+          startX="-66"
+          startY="184"
+          endX="108"
+          endY="-11"/>
+    </sourceConnections>
+    <bounds
+        x="480"
+        y="48"
+        width="109"
+        height="64"/>
   </children>
 </archimate:SketchModel>
