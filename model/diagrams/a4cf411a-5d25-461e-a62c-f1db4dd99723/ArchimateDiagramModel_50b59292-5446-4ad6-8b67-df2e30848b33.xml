@@ -1,4 +1,61 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Program integrácie komponentov"
-    id="50b59292-5446-4ad6-8b67-df2e30848b33"/>
+    id="50b59292-5446-4ad6-8b67-df2e30848b33">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5e842850-28b0-439c-a16b-1c60aad4a596">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="2d35eb2f-b665-4769-8ea0-9cb05fa908a8"
+        source="5e842850-28b0-439c-a16b-1c60aad4a596"
+        target="ef9b0dc7-5a64-4a48-85f8-da295b12aae7">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_c6f6da68-3a06-4acc-9512-fd644f79f8a6.xml#c6f6da68-3a06-4acc-9512-fd644f79f8a6"/>
+    </sourceConnections>
+    <bounds
+        x="108"
+        y="204"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_563a8073-f03a-4f8e-af95-d34aafff0503.xml#563a8073-f03a-4f8e-af95-d34aafff0503"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="d77ae672-e13a-4f25-bcf2-e8ff8f8ede1f">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="ad63288f-443e-49d8-a582-f7edfe947a4a"
+        source="d77ae672-e13a-4f25-bcf2-e8ff8f8ede1f"
+        target="ef9b0dc7-5a64-4a48-85f8-da295b12aae7">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_c8a8b65f-9e80-45ab-886e-e135697a6f4f.xml#c8a8b65f-9e80-45ab-886e-e135697a6f4f"/>
+    </sourceConnections>
+    <bounds
+        x="108"
+        y="282"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_88e9803b-0b64-47cb-888b-5ebcc81cd524.xml#88e9803b-0b64-47cb-888b-5ebcc81cd524"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ef9b0dc7-5a64-4a48-85f8-da295b12aae7"
+      targetConnections="2d35eb2f-b665-4769-8ea0-9cb05fa908a8 ad63288f-443e-49d8-a582-f7edfe947a4a">
+    <bounds
+        x="288"
+        y="240"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_08cbbe27-6362-424f-9537-c8567297b672.xml#08cbbe27-6362-424f-9537-c8567297b672"/>
+  </children>
+</archimate:ArchimateDiagramModel>
