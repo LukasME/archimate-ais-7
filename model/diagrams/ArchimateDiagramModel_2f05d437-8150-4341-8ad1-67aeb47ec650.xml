@@ -1301,15 +1301,10 @@
         source="dcbc2523-f4f6-4a11-b1c3-5c5ad871bc61"
         target="d73cd942-aec9-4259-9a56-2e946872eea0">
       <bendpoints
-          startX="120"
-          startY="15"
-          endX="-132"
-          endY="-113"/>
-      <bendpoints
-          startX="120"
-          startY="147"
-          endX="-132"
-          endY="19"/>
+          startX="1908"
+          startY="66"
+          endX="-74"
+          endY="94"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_37ec4d6a-547c-4188-aa6c-22bcb292cf15.xml#37ec4d6a-547c-4188-aa6c-22bcb292cf15"/>
